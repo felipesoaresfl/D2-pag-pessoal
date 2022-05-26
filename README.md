@@ -1,2 +1,7 @@
-# desafio-2-pag-pessoal
-Meu desafio 2 - criando um exemplo de página pessoal
+# Desafio 2 Página Pessoal
+
+Iniciando a criação um exemplo de página pessoal estática com HTML e CSS.
+
+## View Page
+
+https://felipesoaresfl.github.io/D2-pag-pessoal/
